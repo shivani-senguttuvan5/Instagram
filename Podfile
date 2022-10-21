@@ -3,4 +3,5 @@ target 'Instagram' do
 	use_frameworks!
  	pod 'Parse'
  	pod 'AlamofireImage'
+	pod 'MessageInputBar'
 end
